@@ -53,10 +53,10 @@ $('#terminal').terminal(function(command, term) {
 			'github'
 		],
 		greetings: function(callback){
-			const greet = 'Welcome to Fanghua\'s Personal Site!  Type help for commands.';
+			const greet = 'Welcome to ki2naiver\'s Site!  Type help for commands.';
 			callback(greet);
 		},
-    name: 'Fanghua Gu', //not necessary
+    name: 'ki2naiver', //not necessary
     height: 800,
     prompt: '\u27B3 '});
 });
