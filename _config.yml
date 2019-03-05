@@ -1,11 +1,5 @@
-title: ki2naiver
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: true
-baseurl: '/ki2naiver.github.io' #change it according to your repository name
-
-
-code: https://github.com/fanghuagu/engineer-cv
-zip_url: https://github.com/fanghuagu/engineer-cv
-tar_url: https://github.com/fanghuagu/engineer-cv
-github: https://github.com/ki2naiver
-
-
+google_analytics:
+theme: jekyll-theme-cayman
